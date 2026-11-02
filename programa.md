@@ -18,3 +18,4 @@ Presidente: Don Commit Permanente
 7. Internet gratuito incluso dentro de los túneles.
 8. Los atascos serán declarados ilegales.
 9. Se eliminarán los errores 404 por decreto.
+4. Prohibidas las reuniones antes de las 10 AM.
